@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/huynhngocnhu206/220228-DA24TTA-TO2-110124139.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
