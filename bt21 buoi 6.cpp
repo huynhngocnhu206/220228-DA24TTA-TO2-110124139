@@ -11,6 +11,10 @@ int kiemtraDong(int a[ROW][COL],int m,int n);
 int kiemtraCot(int a[ROW][COL],int m,int n);
 void sxGiam(int a[ROW][COL],int m,int n);
 int KtraCotLe(int a[ROW][COL],int m,int n);
+void VitriX(int a[ROW][COL],int m,int n);
+int MaxDong(int a[ROW][COL],int m,int n);
+int MinDong(int a[ROW][COL],int m,int n);
+void InSNT(int a[ROW][COL],int m,int n);
 
 int main()
 {
